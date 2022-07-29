@@ -1,4 +1,7 @@
-while(True):
-    print("hello world")
-    if(True):
-        break
+add = 0
+for i in range (0,1000):
+    if(i%3 == 0 or i%5 == 0):
+        add = i + add
+
+answer = add
+print(answer)
