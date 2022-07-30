@@ -5,3 +5,5 @@ for i in range (0,1000):
 
 answer = add
 print(answer)
+
+print(2*3)
