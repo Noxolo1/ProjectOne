@@ -5,6 +5,3 @@ for i in range (0,1000):
 
 answer = add
 print(answer)
-<<<<<<< HEAD:ProjectOne1/MagicalPython.py
-
-print(2*3)
